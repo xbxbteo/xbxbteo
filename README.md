@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @xbxbteo
-- 👀 I’m interested in Python and Cyber
-- 🌱 I’m currently learning Computer Networks
-- 💞️ I’m looking to collaborate on AI projects, specifically for education purposes
-- 📫 How to reach me crosbyteo@gmail.com
+# Hi, I’m Crosby Teo (@xbxbteo) 👋
 
-<!---
-xbxbteo/xbxbteo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Role**: Systems Analyst at the Urban Redevelopment Authority of Singapore.  
+- **Education**: Pursuing a Master’s in Computer Science (Interactive Intelligence) at Georgia Tech.  
+- **Experience**: Led digital transformation projects with low-code platforms; former educator with a focus on training and system design.  
+- **Skills**: Python, Java, SQL, Power Platform, and data analysis.  
+- **Interests**: AI tools for education, workflow automation, and data-driven solutions.  
+
+📫 Contact: **crosbyteo@gmail.com**  
